@@ -1,14 +1,17 @@
 # GQL-Apollo-Server-Typescript-Boilerplate
 This project is a boilerplate for a GraphQL, Apollo Server, and Typescript backend. 
 
-To start the project:
+### To start the project:
 npm run start
 
-To run the baseline test:
+### To run the baseline test:
 npm test
 
-To compile the project:
+### To compile the project:
 npm run compile
+
+### To generate code using codegen:
+npm run generate
 
 The project is set to compile automatically on start. This is to make sure the latest is always being used.
 Code gen is used and the configuration can be found in 'codegen.yml'. 
