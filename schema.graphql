@@ -1,0 +1,9 @@
+type Query
+
+extend type Query {
+  numberSix: Int!
+}
+
+schema {
+  query: Query
+}
