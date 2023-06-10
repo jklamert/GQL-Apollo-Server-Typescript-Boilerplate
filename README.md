@@ -14,7 +14,7 @@ npm run generate
 ## About
 The project is set to compile automatically on start. This is to make sure the latest is always being used.
 Code gen is used and the configuration can be found in 'codegen.yml'. 
-You may learn more about it [here](https://github.com/dotansimha/graphql-code-generator)
+You may learn more about it [here](https://github.com/dotansimha/graphql-code-generator).
 
 The default testing setup is using Jest. 
 The default schema is very limited and exist just to make sure the baseline works. 
